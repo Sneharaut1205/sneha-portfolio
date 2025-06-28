@@ -2,4 +2,4 @@
 
 This is my personal portfolio website built using HTML, CSS, and JavaScript.
 
-🔗 https://github.com/Sneharaut1205/sneha-portfolio
+🔗 https://sneharaut1205.github.io/sneha-portfolio/sneha.html#projects
